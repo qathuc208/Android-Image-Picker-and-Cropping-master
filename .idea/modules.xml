@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Image-Picker-and-Cropping-master.iml" filepath="$PROJECT_DIR$/Android-Image-Picker-and-Cropping-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropimages/cropimages.iml" filepath="$PROJECT_DIR$/cropimages/cropimages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roomdb/roomdb.iml" filepath="$PROJECT_DIR$/roomdb/roomdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitebase/sqlitebase.iml" filepath="$PROJECT_DIR$/sqlitebase/sqlitebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodel/viewmodel.iml" filepath="$PROJECT_DIR$/viewmodel/viewmodel.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':cropimages', ':roomdb', ':viewmodel', ':sqlitebase'
