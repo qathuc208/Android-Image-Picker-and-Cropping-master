@@ -1,1 +1,1 @@
-include ':cropimages', ':roomdb', ':viewmodel', ':sqlitebase', ':recyclerviewsearch', ':bottomnavigation'
+include ':cropimages', ':roomdb', ':viewmodel', ':sqlitebase', ':recyclerviewsearch', ':bottomnavigation', ':navigationdraw'

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Android-Image-Picker-and-Cropping-master.iml" filepath="$PROJECT_DIR$/Android-Image-Picker-and-Cropping-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" filepath="$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/cropimages/cropimages.iml" filepath="$PROJECT_DIR$/cropimages/cropimages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdraw/navigationdraw.iml" filepath="$PROJECT_DIR$/navigationdraw/navigationdraw.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewsearch/recyclerviewsearch.iml" filepath="$PROJECT_DIR$/recyclerviewsearch/recyclerviewsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/roomdb/roomdb.iml" filepath="$PROJECT_DIR$/roomdb/roomdb.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlitebase/sqlitebase.iml" filepath="$PROJECT_DIR$/sqlitebase/sqlitebase.iml" />
